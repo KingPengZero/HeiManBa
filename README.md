@@ -1,2 +1,0 @@
-# HeiManBa
-A CODE TEST
